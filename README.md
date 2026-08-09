@@ -7,6 +7,7 @@ Project Overview
 This project analyzes SpaceX Falcon 9 launch data and builds machine learning models to predict first-stage landing success.
 
 Project Tasks
+
 Data Collection using SpaceX API
 Web Scraping from Wikipedia
 Data Wrangling
